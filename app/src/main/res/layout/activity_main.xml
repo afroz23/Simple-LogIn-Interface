@@ -20,7 +20,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:textAlignment="center"
-        android:text="Hello There,\nWelcome Back"
+        android:text="Hello there,\nWelcome Back"
         android:textColor="@color/white"
         android:textSize="40dp" />
 
